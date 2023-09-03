@@ -1,6 +1,6 @@
 # MathMate
 
-A simple calculator app made using Flutter framework. It utilizes (simple_expressions)[https://github.com/kartikasw/simple_expressions] library that I created it myself to evaluate math operations.
+A simple calculator app made using Flutter framework. It utilizes [simple_expressions](https://github.com/kartikasw/simple_expressions) library that I created it myself to evaluate math operations.
 
 Tech stack that I used to develop this app:
 - Flutter
