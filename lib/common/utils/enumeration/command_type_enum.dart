@@ -1,0 +1,3 @@
+enum CommandType {
+  operator, number;
+}
