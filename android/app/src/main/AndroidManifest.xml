@@ -2,7 +2,7 @@
     package="com.kartikasw.math_mate">
     <application
         android:label="MathMate"
-        android:name="MathMate"
+        android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
