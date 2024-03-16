@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kartikasw.math_mate">
+    package="com.kartikadev.math_mate">
     <application
         android:label="MathMate"
         android:name="${applicationName}"

@@ -1,4 +1,4 @@
-package com.kartikasw.math_mate
+package com.kartikadev.math_mate
 
 import io.flutter.embedding.android.FlutterActivity
 
